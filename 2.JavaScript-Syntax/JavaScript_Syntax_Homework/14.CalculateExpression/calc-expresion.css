@@ -1,0 +1,28 @@
+body, div, input, button {
+	width: 50%;
+	margin: 0 auto;
+	font-size: 20px;
+	padding: 10px;
+	font-family: 'Times New Roman', Times, serif;
+
+}
+
+input, p {
+	background: skyblue;
+	font-size: 20px;
+	color: orange;
+}
+
+button {
+	width: 50%;
+	margin: 20px auto;
+	background: white;
+}
+
+P{
+	border: solid 1px black;
+	font-size: 30px;
+}
+
+
+
